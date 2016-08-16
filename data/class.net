@@ -1,3 +1,9 @@
+% Class
+% The Class network describes the borrowing of study materials among 15 social 
+% informatics students at Faculty of social sciences in Ljubljana. Besides the 
+% borrowing relation we have also information (endcoded as the node shape and 
+% as the initial character of label) about the sex (man, woman) of each student.
+% February 15, 2003
 *Vertices      15
        1 "m02"                                    0.1857    0.2781    0.5000 box
        2 "m03"                                    0.5482    0.6169    0.5000
